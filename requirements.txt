@@ -1,1 +1,5 @@
-Flask
+flask
+numpy
+pandas
+matplotlib
+-e .  #triggers setup.py and connects requirements.txt with setup
