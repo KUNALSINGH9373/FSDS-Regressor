@@ -2,4 +2,6 @@ flask
 numpy
 pandas
 matplotlib
+scikit-learn
+seaborn
 -e .  #triggers setup.py and connects requirements.txt with setup
